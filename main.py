@@ -22,6 +22,7 @@ def generate_conway_sequence(n):
 
 
 generation_count = 19 #wie oft möchte ich das ausgeben
+
 generate_conway_sequence(generation_count)#aufrufen der methode
 
 
